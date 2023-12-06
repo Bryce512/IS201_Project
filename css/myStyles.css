@@ -8,8 +8,6 @@
   background-image: url(https://bashooka.com/wp-content/uploads/2012/04/patterns_4.jpg);
   background-position: top right;
   height: fit-content;
-  /* width: fit-content; */
-  /* background-size: cover; */
 }
 
 body, html {
@@ -27,8 +25,7 @@ a:hover {
 
 /* selector does not work on DuckDuckGo */
 a:visited {
-  color: rgb(173, 14, 241);
-  /* text-decoration: underline; */
+  color: rgb(206, 152, 229);
 }
 
 body {
@@ -41,11 +38,6 @@ li {
   font-style: italic;
   font-weight: normal;
 }
-/* p{
-  font-size: 14px;
-  font-style: normal;
-  font-weight: normal;
-} */
 
 .mainListHeading {
   font-weight: bold;
